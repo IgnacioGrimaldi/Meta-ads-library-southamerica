@@ -30,18 +30,18 @@ In order to answer the question "when?" I downloaded more csv files from Meta. F
 Then I downloaded them, with help of colleagues because Meta only allows to export three files per specific individuals, per day. TEAM ALWAYS IS IMPORTANT.
 When that data was obtained I just also search for the elections dates in the countries and filtered the ads that started one month before (campaign time) and compare to the total ads that every representative account supported.
 
-# NEXT STEPS IN THE STORY THAT ARE STILL UNANSWERED 
+# Next steps in the story with unanswered questions 
 Where did the money come from? Meta informs the responsibles of the ads, but not the bank account that paid for them. Also, another possible angle may analyze the content that was promoted: which words, which images, duration and other possible quality values.
 That questions may be transformed into an hypothesis and then the data-driven story transforms into an investigative story, with another methodology but with similar tools.
 
-# CODE LEARNING 
+# Code Learning
 The first days were very taugh, then I started to feel motivated. Now I think every possible story with the possibility of applying this tools in order to search for "the system" or "scale stories".
 
-# VISUALIZATION 
+# Visualization 
 Great challenge. It took me lot of time. Best advise: the easy, the best, and details at the end. By the way: I don't feel I made a good work in this area. I'm very far from being an expert. I feel in the process of learning. And in some point, in this project I learnt while making mistakes and then thinking why I was mistaken.
 
-# TROUBLE
+# Trouble
 Related to visualization: I've worked with cards in Flourish, but they were very heavy. And the html file didn't work with them, so I got to screenshot them and worked in Illustrator as a png file with different layers.
 
-# UNEXPLORED POINTS IN THE DATABASE
+# Unexplored points in database
 I made focused on actual authorities. If anybody wants to go after other politicians or organizations, I´ll share my consolidated csv with southamerican entities. Feel free to use it, but also you have to know that this is uploaded by the end of June 2026. Be aware if you need to update it.
