@@ -1,5 +1,7 @@
 # Meta-ads-library-southamerica
 A data driven story about the money spent in political content on Facebook and Instagram. Focused on presidents and campaigns in the region.
+# Link
+https://ignaciogrimaldi.github.io/Meta-ads-library-southamerica/
 # Methodology applied in the story
 ABC. A = actors. B = behaviour. C = content. But that wouldn't work without a database.
 # First step: search for a source, obtain the database.
